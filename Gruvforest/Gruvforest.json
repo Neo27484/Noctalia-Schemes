@@ -1,0 +1,122 @@
+{
+  "name": "Gruvbox Custom Forest Bronze",
+  "author": "custom",
+
+  "dark": {
+    "mPrimary": "#BC9F5C",
+    "mOnPrimary": "#1C241F",
+
+    "mSecondary": "#444D3C",
+    "mOnSecondary": "#D1C79F",
+
+    "mTertiary": "#996845",
+    "mOnTertiary": "#D1C79F",
+
+    "mError": "#996845",
+    "mOnError": "#D1C79F",
+
+    "mSurface": "#1C241F",
+    "mOnSurface": "#D1C79F",
+
+    "mSurfaceVariant": "#444D3C",
+    "mOnSurfaceVariant": "#5A6763",
+
+    "mOutline": "#5A6763",
+    "mShadow": "#000000",
+
+    "mHover": "#2A332D",
+    "mOnHover": "#D1C79F",
+
+    "terminal": {
+      "foreground": "#D1C79F",
+      "background": "#1C241F",
+
+      "selectionFg": "#1C241F",
+      "selectionBg": "#BC9F5C",
+
+      "cursorText": "#1C241F",
+      "cursor": "#BC9F5C",
+
+      "normal": {
+        "black": "#1C241F",
+        "red": "#996845",
+        "green": "#444D3C",
+        "yellow": "#BC9F5C",
+        "blue": "#5A6763",
+        "magenta": "#996845",
+        "cyan": "#5A6763",
+        "white": "#D1C79F"
+      },
+
+      "bright": {
+        "black": "#5A6763",
+        "red": "#996845",
+        "green": "#5A6763",
+        "yellow": "#BC9F5C",
+        "blue": "#444D3C",
+        "magenta": "#BC9F5C",
+        "cyan": "#444D3C",
+        "white": "#D1C79F"
+      }
+    }
+  },
+
+  "light": {
+    "mPrimary": "#996845",
+    "mOnPrimary": "#D1C79F",
+
+    "mSecondary": "#5A6763",
+    "mOnSecondary": "#D1C79F",
+
+    "mTertiary": "#BC9F5C",
+    "mOnTertiary": "#1C241F",
+
+    "mError": "#996845",
+    "mOnError": "#D1C79F",
+
+    "mSurface": "#D1C79F",
+    "mOnSurface": "#1C241F",
+
+    "mSurfaceVariant": "#BC9F5C",
+    "mOnSurfaceVariant": "#444D3C",
+
+    "mOutline": "#5A6763",
+    "mShadow": "#AFA68A",
+
+    "mHover": "#BC9F5C",
+    "mOnHover": "#1C241F",
+
+    "terminal": {
+      "foreground": "#1C241F",
+      "background": "#D1C79F",
+
+      "selectionFg": "#D1C79F",
+      "selectionBg": "#996845",
+
+      "cursorText": "#D1C79F",
+      "cursor": "#996845",
+
+      "normal": {
+        "black": "#5A6763",
+        "red": "#996845",
+        "green": "#444D3C",
+        "yellow": "#BC9F5C",
+        "blue": "#5A6763",
+        "magenta": "#996845",
+        "cyan": "#5A6763",
+        "white": "#D1C79F"
+      },
+
+      "bright": {
+        "black": "#444D3C",
+        "red": "#996845",
+        "green": "#5A6763",
+        "yellow": "#BC9F5C",
+        "blue": "#444D3C",
+        "magenta": "#BC9F5C",
+        "cyan": "#444D3C",
+        "white": "#1C241F"
+      }
+    }
+  }
+}
