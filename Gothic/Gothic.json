@@ -1,0 +1,122 @@
+{
+  "name": "Gothic Blood & Gold",
+  "author": "custom",
+
+  "dark": {
+    "mPrimary": "#7a2e2e",
+    "mOnPrimary": "#f3e9d2",
+
+    "mSecondary": "#8c5a3c",
+    "mOnSecondary": "#f3e9d2",
+
+    "mTertiary": "#a67c52",
+    "mOnTertiary": "#181312",
+
+    "mError": "#8b3a3a",
+    "mOnError": "#f3e9d2",
+
+    "mSurface": "#14110f",
+    "mOnSurface": "#e8dcc6",
+
+    "mSurfaceVariant": "#221c18",
+    "mOnSurfaceVariant": "#b7a58f",
+
+    "mOutline": "#3a2e28",
+    "mShadow": "#000000",
+
+    "mHover": "#2a211c",
+    "mOnHover": "#e8dcc6",
+
+    "terminal": {
+      "foreground": "#e8dcc6",
+      "background": "#14110f",
+
+      "selectionFg": "#14110f",
+      "selectionBg": "#a67c52",
+
+      "cursorText": "#14110f",
+      "cursor": "#a67c52",
+
+      "normal": {
+        "black": "#2b2623",
+        "red": "#7a2e2e",
+        "green": "#6e7f5f",
+        "yellow": "#a67c52",
+        "blue": "#6a4f3c",
+        "magenta": "#7b4a5a",
+        "cyan": "#6f8f87",
+        "white": "#cfc1a8"
+      },
+
+      "bright": {
+        "black": "#4a433f",
+        "red": "#9b3f3f",
+        "green": "#8fa07a",
+        "yellow": "#c9a56d",
+        "blue": "#8b6a50",
+        "magenta": "#9a6a78",
+        "cyan": "#8fb3a8",
+        "white": "#f3e9d2"
+      }
+    }
+  },
+
+  "light": {
+    "mPrimary": "#7a2e2e",
+    "mOnPrimary": "#f3e9d2",
+
+    "mSecondary": "#8c5a3c",
+    "mOnSecondary": "#f3e9d2",
+
+    "mTertiary": "#a67c52",
+    "mOnTertiary": "#181312",
+
+    "mError": "#8b3a3a",
+    "mOnError": "#f3e9d2",
+
+    "mSurface": "#f3e9d2",
+    "mOnSurface": "#2b2623",
+
+    "mSurfaceVariant": "#e6d8be",
+    "mOnSurfaceVariant": "#6a5c50",
+
+    "mOutline": "#b7a58f",
+    "mShadow": "#cfc1a8",
+
+    "mHover": "#e0d1b4",
+    "mOnHover": "#2b2623",
+
+    "terminal": {
+      "foreground": "#2b2623",
+      "background": "#f3e9d2",
+
+      "selectionFg": "#f3e9d2",
+      "selectionBg": "#7a2e2e",
+
+      "cursorText": "#f3e9d2",
+      "cursor": "#7a2e2e",
+
+      "normal": {
+        "black": "#5a524d",
+        "red": "#7a2e2e",
+        "green": "#6e7f5f",
+        "yellow": "#a67c52",
+        "blue": "#6a4f3c",
+        "magenta": "#7b4a5a",
+        "cyan": "#6f8f87",
+        "white": "#8a817a"
+      },
+
+      "bright": {
+        "black": "#6e655f",
+        "red": "#9b3f3f",
+        "green": "#8fa07a",
+        "yellow": "#c9a56d",
+        "blue": "#8b6a50",
+        "magenta": "#9a6a78",
+        "cyan": "#8fb3a8",
+        "white": "#2b2623"
+      }
+    }
+  }
+}
